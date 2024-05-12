@@ -1,0 +1,12 @@
+ERROR	2024-05-12 18:52:58,971	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Error during contract method execution; Error during contract method execution
+ERROR	2024-05-12 19:55:15,571	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Error during contract method execution; Error during contract method execution
+ERROR	2024-05-12 19:56:42,639	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Error during contract method execution; Error during contract method execution
+ERROR	2024-05-12 20:11:21,023	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: User already voted; User already voted
+ERROR	2024-05-12 20:16:41,658	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: User already voted; User already voted
+ERROR	2024-05-12 20:29:13,510	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: User already voted; User already voted
+ERROR	2024-05-12 20:30:40,038	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Error during contract method execution; Error during contract method execution
+ERROR	2024-05-12 20:32:23,480	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Voter not found; Voter not found
+ERROR	2024-05-12 21:26:40,100	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Voter not found; Voter not found
+ERROR	2024-05-12 22:03:33,175	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Error during contract method execution; Error during contract method execution
+ERROR	2024-05-12 22:04:48,786	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: User already voted; User already voted
+ERROR	2024-05-12 22:06:31,827	0	org.hyperledger.fabric.gateway.impl.TransactionImpl	[main]	No valid proposal responses received. 2 peer error responses: Error during contract method execution; Error during contract method execution
