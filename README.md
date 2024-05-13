@@ -9,6 +9,7 @@ Before getting started, ensure that your system meets the following prerequisite
 - Docker — version 17.06.2-ce or greater (`$ docker --version`)
 - Docker Compose — version 1.27.4 or greater (`$ docker-compose --version`)
 - Go programming language — version 1.20.0 (`$ go version`)
+- Java programming language — version jdk-11 (`$ java -version`)
 
 For installation instructions, refer to: [Setup Hyperledger Fabric 2.5 LTS on Ubuntu 22.04 Linux](<installation_instructions_link>)
 
