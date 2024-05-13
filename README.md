@@ -49,7 +49,7 @@ cd test-network
 4.Run the eVote Java application using the FABRIC Java SDK to interact with the deployed chain code:
 
 ```bash
-cd application/application-java
+cd ../application/application-java
 ./gradlew runApp
 ```
 
