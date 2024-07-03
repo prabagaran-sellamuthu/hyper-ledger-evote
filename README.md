@@ -77,3 +77,9 @@ https://github.com/hyperledger-labs/blockchain-explorer/blob/main/README.md
 - Each step is accompanied by informative messages printed to the console, providing feedback on the progress and outcome of the actions performed by the application.
 
 - When you run the eVote Java application (App.java), it automates the process of voter and party registration, voting, and result evaluation within the Hyperledger Fabric network.
+
+## Architecture Diagram 
+![image](https://github.com/prabagaran-sellamuthu/hyper-ledger-evote/assets/38026104/ae9983ef-aea5-45a7-a941-0ba699891870)
+
+## Further Assistance
+For further assistance or inquiries, please contact Prabagaran Sellamuthu
