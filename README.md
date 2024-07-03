@@ -11,7 +11,7 @@ Before getting started, ensure that your system meets the following prerequisite
 - Go programming language — version 1.20.0 (`$ go version`)
 - Java programming language — version jdk-11 (`$ java -version`)
 
-For installation instructions, refer to: [Setup Hyperledger Fabric 2.5 LTS on Ubuntu 22.04 Linux](<[https://medium.com/@immortalsaint/setup-hyperledger-fabric-2-5-lts-on-ubuntu-22-04-linux-f60163281f0c]>)
+For installation instructions, refer to: [Setup Hyperledger Fabric 2.5 LTS on Ubuntu 22.04 Linux](<https://medium.com/@immortalsaint/setup-hyperledger-fabric-2-5-lts-on-ubuntu-22-04-linux-f60163281f0c>)
 
 ## Installation
 
